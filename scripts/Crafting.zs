@@ -58,6 +58,7 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 recipes.remove(<BuildCraft|Factory:miningWellBlock>);
 recipes.remove(<TConstruct:CraftedSoil:1>);
 recipes.remove(<TConstruct:ToolForgeBlock>);
+recipes.remove(<JABBA:moverDiamond>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
