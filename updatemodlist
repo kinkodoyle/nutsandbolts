@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+tree -if --noreport mods -o modlist.txt
+
