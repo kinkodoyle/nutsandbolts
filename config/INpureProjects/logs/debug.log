@@ -53,7 +53,6 @@ DragonAPI:minecraft:wheat_technical has a bad registry name! Attempting to parse
 Parsed bad name into: minecraft:wheat_technical. If this is not correct please report it as a bug!
 DragonAPI:minecraft:wooden_door_technical has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: minecraft:wooden_door_technical. If this is not correct please report it as a bug!
-Found creative tab: arcaneTab
 Found creative tab: tabBloodMagic
 Found creative tab: misc
 Found creative tab: aroma1997core:creativetab
@@ -223,17 +222,17 @@ override called. Params: ThermalExpansion, florb
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy_13
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Decoration.BrickFancy_13
+getRandomMaterial called. Returned: tile.Darkleaves0
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves0
 Loading: ExtraUtilities.js
 override called. Params: drum, 0,1
 override called. Params: ExtraUtilities, drum
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy_13
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy_13
+getRandomMaterial called. Returned: tile.Decoration.BrickFancy_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy_10
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 2402
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1127
+getFacadesSize called. Returned: 2505
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1902
 Loading: Bibliocraft.js
 override called. Params: *, 0
 override called. Params: BiblioCraft, *
@@ -294,6 +293,8 @@ Regx match found! BiblioCraft:* matches BiblioCraft:BiblioWorkbench.
 Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
 Regx match found! BiblioCraft:* matches BiblioCraft:Bibliotheca.
 Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
+Regx match found! BiblioCraft:* matches BiblioCraft:BookcaseFilled.
+Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
 Regx match found! BiblioCraft:* matches BiblioCraft:Printing.
 Cannot find ItemStack BiblioCraft:Printing
 Regx match found! BiblioCraft:* matches BiblioCraft:Typesetting.
@@ -354,9 +355,9 @@ Cannot find ItemStack BiblioCraft:*
 Loading: AppliedEnergistics2.js
 getFacadeItem called.
 getSubTypes called.
-getNumberOfTypes called. Returned: 2603
+getNumberOfTypes called. Returned: 2720
 The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
-override called. Params: item.ItemFacade, 583
+override called. Params: item.ItemFacade, 618
 override called. Params: appliedenergistics2, item.ItemFacade
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
