@@ -20,7 +20,7 @@ mods/BiblioCraft[v1.9.2][MC1.7.10].jar
 mods/BigReactors-0.4.1A2.jar
 mods/BiomesOPlenty-1.7.10-2.1.0.1034-universal.jar
 mods/BloodArsenal-1.7.10-1.1.3.jar
-mods/BloodMagic-1.7.10-1.3.0-1.jar
+mods/BloodMagic-1.7.10-1.3.0b-3.jar
 mods/Botania\ r1.3-151.jar
 mods/BuildcraftAdditions-1.7.10-1.8.3.jar
 mods/CallowCraft-1.0.0.jar
@@ -104,11 +104,13 @@ mods/StevesWorkshop-0.5.1.jar
 mods/TConstruct-1.7.10-1.8.1.jar
 mods/TMechworks-1.7.10-0.2.10.jar
 mods/TSteelworks-1.7.10-1.0.6.jar
+mods/Thaumcarpentry-0.0.1.5-1.7.10.jar
 mods/Thaumcraft-1.7.10-4.2.3.0.jar
 mods/ThaumcraftGates-1.4.0.jar
 mods/ThaumicExploration-1.7.10-1.1-34.jar
 mods/ThaumicInfusion-1.7.10-3.83.jar
 mods/ThaumicTinkerer-2.5-1.7.10-437.jar
+mods/ThaumicTinkerer-2.5-1.7.10-440.jar
 mods/TheErebus-0.2pre11c.jar
 mods/ThermalExpansion-[1.7.10]4.0.0B8-23.jar
 mods/ThermalFoundation-[1.7.10]1.0.0RC1-13.jar
@@ -134,6 +136,7 @@ mods/forestry_1.7.10-3.3.0.6.jar
 mods/funky-locomotion-1.7.10-beta-3.jar
 mods/generators-mc1710-0.9.6.27.jar
 mods/iChunUtil-4.1.3.jar
+mods/logisticspipes-0.8.2.89.jar
 mods/magicbees-1.7.10-2.1.22.jar
 mods/malisiscore-1.7.10-0.10.3.jar
 mods/malisisdoors-1.7.10-1.3.3.jar
@@ -143,7 +146,9 @@ mods/neiaddons-mc1710-1.12.3.11.jar
 mods/railcraft
 mods/railcraft/emblems
 mods/resonant-engine-3.3.0.388-core.jar
+mods/sprinklesforvanilla-1.7.10-1.1.1.jar
 mods/statues-1.7.10-2.1.4.jar
+mods/thaumcraftneiplugin-1.7.10-1.6a.jar
 mods/thaumicenergistics-0.8.7.2a-rv2.jar
 mods/tradebooth.1.7.10.1.jar
 mods/ttCore-MC1.7.10-0.1.0-53.jar
