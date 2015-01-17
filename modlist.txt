@@ -65,6 +65,7 @@ mods/MineFactoryReloaded-[1.7.10]2.8.0RC6-15.jar
 mods/MineTweaker3-1.7.10-3.0.9C.jar
 mods/MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar
 mods/Minechem-1.7.10-5.0.5.358.jar
+mods/MmmMmmMmmMmm-1.6.jar
 mods/MobiusCore-1.2.3_1.7.10.jar
 mods/ModTweaker-1.7.X-0.6-0.jar
 mods/Morph-Beta-0.9.1.jar
@@ -139,7 +140,6 @@ mods/malisisdoors-1.7.10-1.3.3.jar
 mods/mffs-4.1.1.61-core.jar
 mods/natura-1.7.10-2.2.0.1.jar
 mods/neiaddons-mc1710-1.12.3.11.jar
-mods/practicalities-1.7.10-0.5.1.jar
 mods/railcraft
 mods/railcraft/emblems
 mods/resonant-engine-3.3.0.388-core.jar
